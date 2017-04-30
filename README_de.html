@@ -1,0 +1,109 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;">
+    <title>
+    CYCLE - Ein Kalender für Frauen
+    </title>
+</head>
+<body bgcolor="white">
+<h2 align=center>
+    CYCLE<br>
+    Ein Kalender für Frauen
+</h2>
+<div align="center">
+<strong>15.09.2005 Version 0.3.1</strong><br>
+2002-2005 (c) Oleg Gints (altgo@users.sourceforge.net)<br>
+2002-2005 (c) "CONERO lab", http://conero.lrn.ru<br>
+</div>
+
+<h3 align="center">PROGRAMMFEATURES</h3>
+<ul>
+    <li>Berechnung der Menstruationstage basierend auf der Länge des Zyklus
+         oder der letzten Perioden</li>
+    <li>Berechnung der Tage des "sicheren" Sex, erhöhter Fruchtbarkeit und Eisprungs</li>
+    <li>Voraussage des Tages der Empfängnis eines Kindes</li>
+    <li>Notizfunktion</li>
+    <li>Hilft bei der Einnahme von hormonellen Empfängnispillen</li>
+</ul>
+
+<h3 align="center">WIE ES FUNKTIONIERT</h3>
+<p>
+Das Programm verwendet die <em>Kalendermethode</em> für die Berechnung der
+fruchtbaren Tage.
+Dafür ist es notwendig, die Dauer von mindestens sechs vergangenen Perioden
+zu kennen.
+   
+Für die Berechnung wird folgender Algorithmus verwendet:
+<ul>
+    <li>Erster Tag: Dauer des kürzesten Zyklus minus 18</li>
+    <li>Letzter Tag: Dauer des längsten Zyklus minus 11</li>
+    <li>Eisprung: Wird in der Mitte der fruchtbaren Tage vermutet (Mit der Kalendermethode ist die exakte Berechnung nicht möglich)</li>
+</ul>   
+
+Mehr Informationen über die Kalendermethode sind unter
+<a href="http://www.mama.ru/gynecolog/STA/st18.htm">
+    http://www.mama.ru/gynecolog/STA/st18.htm</a> (in russisch)
+verfügbar.
+
+<p>
+Der Tag der Empfängnis (Geburt) eines Kindes wird vom Beginn der
+letzten Menstruation gezählt.
+Dieses Datum wird mit der Dauer eines Zyklus korrigiert (Es wird die Anzahl
+der Tage addiert/subtrahiert, die die Zyklusdauer von 28 Tagen abweicht).
+Es ist möglich, das Ergebnis unter folgender Adresse zu überprüfen:
+<a href="http://cir.msk.ru/sroki.shtml">http://cir.msk.ru/sroki.shtml</a> (in russisch)
+
+<H3 align="center">PROGRAMMNUTZUNG</H3>
+
+<p>
+Es ist notwendig, den Beginn der letzten Menstruationen per Hand zu 
+markieren. Dies geschieht durch einen Klick mit der rechten Maustaste
+auf einen Tag im Kalender und der Auswahl von "Zyklusbeginn".
+Auf dieselbe Art kann die Markierung entfernt werden.
+Mit Hilfe der Dauer der letzten sechs Zyklen wird das Programm
+folgendes berechnen:
+<ul>
+    <li>Fruchtbare Tage - grüne Zellen</li>
+    <li>Eisprung (Mitte der fruchtbaren Tage) - hellgrüne Zelle</li>
+    <li>Beginn der nächsten Menstruation - pinke Zelle</li>
+</ul>
+<p>
+Die Zyklusdauer kann in den Einstellungen festgelegt werden oder über
+den Durchschnitt der Dauer der letzten 6 Zyklen berechnet werden.</p>
+
+<p>Um den voraussichtlichen Tag der Geburt des Kindes zu berechnen
+ist es nötig, den ersten Tag des letzten Zyklus zusätzlich als
+"Schwanger" zu markieren.</p>
+
+<p>Abhängig von Ihren Absichten können sowohl Tage des "sicheren" Sex
+als auch nur fruchtbare Tage angezeigt werden.
+Informationen über interessante Tage können mit einem Linksklick
+auf den entsprechenden Tag aufgerufen werden.</p>
+
+<p>Es ist möglich, Notizen zu einem Tag hinzuzufügen. Tage
+mit Notiz werden unterstrichen dargestellt.</p>
+
+<p><em>Hinweis:</em> Die Fehlerrate der Kalendermethod liegt bei
+ca. 10 Prozent. Sie ist nur für Frauen mit einer regelmäßigen Periode
+zu empfehlen.</p>
+
+<p>Wenn Ihnen Ihr Arzt die Pille verschrieben hat, wird Ihnen das Programm
+bei der Einhaltung der regelmäßigen Einnahme helfen.
+Machen Sie sich aber trotzdem mit den Hinweisen auf der 
+Packungsbeilage vertraut!
+Eine Packung kann 21 Tabletten (Der Zyklus dauert 21 Tage, danach 7 Tage Pause)
+oder 28 Tabletten enthalten - diese werden dann jeden Tag eingenommen.
+Im Programm wird nur der Tag markiert, an dem die erste Tablette eingenommen
+werden muss.</p>
+
+<H3 align="center">VERTEILUNGSBESTIMMUNGEN</H3>
+<p>Das Programm "Cycle" wird unter der <strong>GNU General Public License</strong>
+verteilt in der Hoffnung, dass es nützlich sein wird. Es gibt aber keine Garantie,
+dass es korrekt oder überhaupt funktioniert. (Siehe Datei "COPYRIGHT")</p>
+
+<p align="right">
+<font size="-1">
+    Übersetzung: Christian Weiske (cweiske@users.sourceforge.net)
+</font>
+</body>
+</html>

@@ -1,0 +1,286 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: Sat Apr 30 22:33:29 2005\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: ../cal_year.py:73
+msgid "Begin of cycle"
+msgstr ""
+
+#: ../cal_year.py:75 ../dialogs.py:331 ../dialogs.py:452
+msgid "1-st tablet"
+msgstr ""
+
+#: ../cal_year.py:78
+msgid "Conception"
+msgstr ""
+
+#: ../cal_year.py:80
+msgid "Note"
+msgstr ""
+
+#: ../cal_year.py:509
+msgid "tablet N "
+msgstr ""
+
+#: ../cal_year.py:511
+msgid " or pause"
+msgstr ""
+
+#: ../cal_year.py:513 ../dialogs.py:333 ../dialogs.py:454
+msgid "next 1-st tablet"
+msgstr ""
+
+#: ../cal_year.py:551
+msgid " day of gestation, "
+msgstr ""
+
+#: ../cal_year.py:552
+msgid " week"
+msgstr ""
+
+#: ../cal_year.py:553
+msgid " weeks"
+msgstr ""
+
+#: ../cal_year.py:555
+msgid " day"
+msgstr ""
+
+#: ../cal_year.py:556 ../cal_year.py:563
+msgid " days"
+msgstr ""
+
+#: ../cal_year.py:562
+msgid " day of period from "
+msgstr ""
+
+#: ../cal_year.py:562
+msgid " to "
+msgstr ""
+
+#: ../cal_year.py:563
+msgid " length "
+msgstr ""
+
+#: ../cycle.py:43 ../cycle.py:57
+msgid "try decode this string"
+msgstr ""
+
+#: ../cycle.py:96
+msgid "Dec Year"
+msgstr ""
+
+#: ../cycle.py:99
+msgid "Current Year"
+msgstr ""
+
+#: ../cycle.py:102
+msgid "Inc Year"
+msgstr ""
+
+#: ../cycle.py:108 ../dialogs.py:319
+msgid "Legend"
+msgstr ""
+
+#: ../cycle.py:111 ../dialogs.py:17
+msgid "Settings"
+msgstr ""
+
+#: ../cycle.py:114 ../cycle.py:153
+msgid "Help"
+msgstr ""
+
+#: ../cycle.py:122
+msgid "Exit"
+msgstr ""
+
+#: ../dialogs.py:22
+msgid "Length of cycle"
+msgstr ""
+
+#: ../dialogs.py:24
+msgid " by average"
+msgstr ""
+
+#: ../dialogs.py:36
+msgid " days in cycle"
+msgstr ""
+
+#: ../dialogs.py:40
+msgid "Display"
+msgstr ""
+
+#: ../dialogs.py:41
+msgid "both"
+msgstr ""
+
+#: ../dialogs.py:41
+msgid "fertile days"
+msgstr ""
+
+#: ../dialogs.py:41
+msgid "safe sex days"
+msgstr ""
+
+#: ../dialogs.py:47
+msgid "First week day"
+msgstr ""
+
+#: ../dialogs.py:48
+msgid "monday"
+msgstr ""
+
+#: ../dialogs.py:48
+msgid "sunday"
+msgstr ""
+
+#: ../dialogs.py:55
+msgid "Colours"
+msgstr ""
+
+#: ../dialogs.py:56
+msgid "Change password"
+msgstr ""
+
+#: ../dialogs.py:70 ../dialogs.py:137 ../dialogs.py:217 ../dialogs.py:336
+#: ../dialogs.py:370 ../dialogs.py:423 ../dialogs.py:458
+msgid "Ok"
+msgstr ""
+
+#: ../dialogs.py:74 ../dialogs.py:141 ../dialogs.py:221 ../dialogs.py:374
+#: ../dialogs.py:466
+msgid "Cancel"
+msgstr ""
+
+#: ../dialogs.py:91
+msgid "Period of cycle is invalid!"
+msgstr ""
+
+#: ../dialogs.py:92 ../dialogs.py:159 ../dialogs.py:255 ../dialogs.py:308
+msgid "Error!"
+msgstr ""
+
+#: ../dialogs.py:117 ../dialogs.py:244
+msgid "Password"
+msgstr ""
+
+#: ../dialogs.py:122
+msgid "Enter your password"
+msgstr ""
+
+#: ../dialogs.py:128
+msgid "Once more..."
+msgstr ""
+
+#: ../dialogs.py:154
+msgid "Password must be not EMPTY!"
+msgstr ""
+
+#: ../dialogs.py:156
+msgid "Entering password don't match!"
+msgstr ""
+
+#: ../dialogs.py:172
+msgid "Login"
+msgstr ""
+
+#: ../dialogs.py:182
+msgid "empty"
+msgstr ""
+
+#: ../dialogs.py:197
+msgid "Your name"
+msgstr ""
+
+#: ../dialogs.py:211
+msgid "Add user"
+msgstr ""
+
+#: ../dialogs.py:244
+msgid ", enter you password:"
+msgstr ""
+
+#: ../dialogs.py:254
+msgid "Password is invalid!"
+msgstr ""
+
+#: ../dialogs.py:280
+msgid ""
+"This program is not a reliable contraceptive method. Neither does it help to prevent sexually transmitted diseases like HIV/AIDS.\n"
+"\n"
+"It is just an electronic means of keeping track of some of your medical data and extracting some statistical conclusions from them. You cannot consider this program as a substitute for your gynecologist in any way."
+msgstr ""
+
+#: ../dialogs.py:286
+msgid "Enter you name:"
+msgstr ""
+
+#: ../dialogs.py:286
+msgid "New user"
+msgstr ""
+
+#: ../dialogs.py:305
+msgid " - already exists!"
+msgstr ""
+
+#: ../dialogs.py:307
+msgid "Name must be not EMPTY"
+msgstr ""
+
+#: ../dialogs.py:324
+msgid "today"
+msgstr ""
+
+#: ../dialogs.py:325 ../dialogs.py:446
+msgid "begin of cycle"
+msgstr ""
+
+#: ../dialogs.py:326 ../dialogs.py:447
+msgid "prognosis of cycle begin"
+msgstr ""
+
+#: ../dialogs.py:327 ../dialogs.py:448
+msgid "conception"
+msgstr ""
+
+#: ../dialogs.py:328 ../dialogs.py:449
+msgid "safe sex"
+msgstr ""
+
+#: ../dialogs.py:329 ../dialogs.py:450
+msgid "fertile"
+msgstr ""
+
+#: ../dialogs.py:330 ../dialogs.py:451
+msgid "ovule, birth"
+msgstr ""
+
+#: ../dialogs.py:332 ../dialogs.py:453
+msgid "tablets N 22-28 or pause"
+msgstr ""
+
+#: ../dialogs.py:378
+msgid "Remove"
+msgstr ""
+
+#: ../dialogs.py:436
+msgid "Colours settings"
+msgstr ""
+
+#: ../dialogs.py:462
+msgid "By default"
+msgstr ""
+

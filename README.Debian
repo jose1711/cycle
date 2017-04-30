@@ -1,0 +1,30 @@
+There seems to be some bug in python (python2.3, 2.3.4-19) and because
+of that catalan ('ca.po') and galego ('gl.po') are not loaded from locale.py.
+
+I had to add a couple of lines to the definition of locale_alias in
+/usr/lib/python2.3/locale.py :
+
+
+--- locale.py.orig	2005-04-12 22:15:37.000000000 +0200
++++ locale.py	2005-04-12 22:21:34.000000000 +0200
+@@ -487,6 +487,8 @@
+         'c-french':                      'fr_CA.ISO8859-1',
+         'c':                             'C',
+         'c_c':                           'C',
++        'ca':                            'ca_ES.ISO8859-1',
++        'ca_es':                         'ca_ES.ISO8859-1',
+         'cextend':                       'en_US.ISO8859-1',
+         'chinese-s':                     'zh_CN.eucCN',
+         'chinese-t':                     'zh_TW.eucTW',
+@@ -554,6 +556,8 @@
+         'ger_de':                        'de_DE.ISO8859-1',
+         'german':                        'de_DE.ISO8859-1',
+         'german_germany':                'de_DE.ISO8859-1',
++        'gl':                            'gl_ES.ISO8859-1',
++        'gl_es':                         'gl_ES.ISO8859-1',
+         'greek':                         'el_GR.ISO8859-7',
+         'hebrew':                        'iw_IL.ISO8859-8',
+         'hr':                            'hr_HR.ISO8859-2',
+
+
+Miriam Ruiz, 15-Apr-2005

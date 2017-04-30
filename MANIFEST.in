@@ -1,0 +1,19 @@
+include *.py
+include bitmaps/*.*
+include cycle.spec
+include README*
+include MANIFEST.in
+include INSTALL
+include CHANGELOG
+include COPYRIGHT
+include THANKS
+include BUGS
+include cycle.1
+
+recursive-include msg *.*
+recursive-include icons *.*
+prune */.xvpics
+prune */*/.xvpics
+
+    
+

@@ -1,0 +1,65 @@
+#====================================================
+#	Cycle - calendar for women
+#	Distributed under GNU Public License
+# Author: Oleg S. Gints (altgo@users.sourceforge.net)
+# Home page: http://cycle.sourceforge.net
+#===================================================
+0.3.1 (15.09.2005)
+    - change to Python 2.4 - repleace rotor module
+    - restore old default color scheme
+    - The description of the program in English from
+      Marco Papa Manzillo<mpapamanz@users.sourceforge.net> is corrected
+    - Now the name of the user is stored in a file with data.
+    
+    from  Miriam Ruiz <little_miry@yahoo.es>:
+    - fixed colors not initialized the first time a user was created.
+    - Added code to use wx 2.5.3 or higher if multiple versions are installed.
+    - Added es, ca and gl translations, and solved some bugs in locale subsystem.
+    - Added note alerting that this is not a reliable contraceptive method every
+      time a new user is created.
+    - Added man page
+    - fixed Cycle for unicode version of wx
+
+0.3.0 (21.12.2004)
+    - Add translation to the german language
+      from Christian Weiske <cweiske@users.sourceforge.net>
+    - change to wxPython = 2.5.X
+
+0.2.1 (06.06.2004)
+    - Add colours settings
+
+0.2.0 (28.04.2004)
+    - Add translation for czech and slovak language
+      from Jozef Riha <zefo@seznam.cz>
+    - change to Python 2.3
+    - Add description for english language
+      from Marco Papa Manzillo <mpapamanz@users.sourceforge.net>
+
+0.0.5 (30.12.2002)
+    - fix PopupMenu for new wxPythonGTK-2.3.3.1
+    - fix exception from LANGUAGE=lang1:lang2
+
+0.0.4 (24.10.2002)
+    - add setup.py and MANIFEST.in, now make new release so:
+      python setup.py sdist
+    - add check reception of hormonal contraceptive tablets
+
+0.0.3 (16.05.2002)
+    - Add icons
+    - Convert README* in *.html
+
+0.0.2 (05.05.2002)
+    - Add line under toolbar
+    - Change color legend "today"
+    - Change BackgroundColour = LIGHT BLUE
+    - clean up code
+    - Add Note
+    - Add calc birthday
+    - encode messages to locale
+    - Add method "by average"
+    - Add cycle.spec
+
+0.0.1 (22.04.2002)
+    - First release
+    
+    

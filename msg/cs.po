@@ -1,0 +1,261 @@
+# translation of messages.po to czech
+# Jozef Riha <zefo@seznam.cz>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cs_CZ\n"
+"POT-Creation-Date: Thu Oct 24 09:07:06 2002\n"
+"PO-Revision-Date: 2004-03-14 16:41+0100\n"
+"Last-Translator: Jozef Riha <zefo@seznam.cz>\n"
+"Language-Team:\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.4\n"
+"X-Generator: KBabel 1.0.2\n"
+
+#: ../cal_year.py:70
+msgid "Begin of cycle"
+msgstr "Začátek cyklu"
+
+#: ../cal_year.py:72 ../dialogs.py:313
+msgid "1-st tablet"
+msgstr "První tableta"
+
+#: ../cal_year.py:75
+msgid "Conception"
+msgstr "Početí"
+
+#: ../cal_year.py:77
+msgid "Note"
+msgstr "Poznámka"
+
+#: ../cal_year.py:505
+msgid "tablet N "
+msgstr "Tableta N "
+
+#: ../cal_year.py:507
+msgid " or pause"
+msgstr " nebo přestávka"
+
+#: ../cal_year.py:509 ../dialogs.py:315
+msgid "next 1-st tablet"
+msgstr "další první tableta"
+
+#: ../cal_year.py:547
+msgid " day of gestation, "
+msgstr " den těhotenství, "
+
+#: ../cal_year.py:548
+msgid " week"
+msgstr " týden"
+
+#: ../cal_year.py:549
+msgid " weeks"
+msgstr " týdny"
+
+#: ../cal_year.py:551
+msgid " day"
+msgstr " den"
+
+#: ../cal_year.py:552 ../cal_year.py:559
+msgid " days"
+msgstr " dny"
+
+#: ../cal_year.py:558
+msgid " day of period from "
+msgstr " den periody od "
+
+#: ../cal_year.py:558
+msgid " to "
+msgstr " do "
+
+#: ../cal_year.py:559
+msgid " length "
+msgstr " délka "
+
+#: ../cycle.py:64
+msgid "Dec Year"
+msgstr "Min. Rok"
+
+#: ../cycle.py:67
+msgid "Current Year"
+msgstr "Aktuální Rok"
+
+#: ../cycle.py:70
+msgid "Inc Year"
+msgstr "Příští rok"
+
+#: ../cycle.py:76 ../dialogs.py:301
+msgid "Legend"
+msgstr "Legenda"
+
+#: ../cycle.py:79 ../dialogs.py:16
+msgid "Settings"
+msgstr "Nastavení"
+
+#: ../cycle.py:82 ../cycle.py:118
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../cycle.py:90
+msgid "Exit"
+msgstr "Konec"
+
+#: ../dialogs.py:21
+msgid "Length of cycle"
+msgstr "Délka cyklu"
+
+#: ../dialogs.py:23
+msgid " by average"
+msgstr " v průměru"
+
+#: ../dialogs.py:35
+msgid " days in cycle"
+msgstr " dnů v cyklu"
+
+#: ../dialogs.py:39
+msgid "Display"
+msgstr "Zobraz"
+
+#: ../dialogs.py:40
+msgid "both"
+msgstr "oba"
+
+#: ../dialogs.py:40
+msgid "fertile days"
+msgstr "plodné dny"
+
+#: ../dialogs.py:40
+msgid "safe sex days"
+msgstr "dny bezpečného sexu"
+
+#: ../dialogs.py:46
+msgid "First week day"
+msgstr "První den v týdnu"
+
+#: ../dialogs.py:47
+msgid "monday"
+msgstr "pondělí"
+
+#: ../dialogs.py:47
+msgid "sunday"
+msgstr "neděle"
+
+#: ../dialogs.py:54
+msgid "Change password"
+msgstr "Změnit heslo"
+
+#: ../dialogs.py:62 ../dialogs.py:125 ../dialogs.py:205 ../dialogs.py:318
+#: ../dialogs.py:352 ../dialogs.py:403
+msgid "Ok"
+msgstr "Ok"
+
+#: ../dialogs.py:66 ../dialogs.py:129 ../dialogs.py:209 ../dialogs.py:356
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: ../dialogs.py:83
+msgid "Period of cycle is invalid!"
+msgstr "Perioda cyklu je chybně zadaná!"
+
+#: ../dialogs.py:84 ../dialogs.py:147 ../dialogs.py:245 ../dialogs.py:290
+msgid "Error!"
+msgstr "Chyba!"
+
+#: ../dialogs.py:105 ../dialogs.py:234
+msgid "Password"
+msgstr "Heslo"
+
+#: ../dialogs.py:110
+msgid "Enter your password"
+msgstr "Zadejte vaše heslo"
+
+#: ../dialogs.py:116
+msgid "Once more..."
+msgstr "Ještě jednou..."
+
+#: ../dialogs.py:142
+msgid "Password must be not EMPTY!"
+msgstr "Heslo nesmí být PRÁZDNÉ!"
+
+#: ../dialogs.py:144
+msgid "Entering password don't match!"
+msgstr "Hesla nejsou stejné!"
+
+#: ../dialogs.py:160
+msgid "Login"
+msgstr "Přihlášení"
+
+#: ../dialogs.py:170
+msgid "empty"
+msgstr "prázdné"
+
+#: ../dialogs.py:185
+msgid "Your name"
+msgstr "Vaše jméno"
+
+#: ../dialogs.py:199
+msgid "Add user"
+msgstr "Přidat uživatele"
+
+#: ../dialogs.py:234
+msgid ", enter you password:"
+msgstr ", zadejte vaše heslo:"
+
+#: ../dialogs.py:244
+msgid "Password is invalid!"
+msgstr "Chybné heslo!"
+
+#: ../dialogs.py:269
+msgid "Enter you name:"
+msgstr "Zadejte vaše jméno:"
+
+#: ../dialogs.py:269
+msgid "New user"
+msgstr "Nový uživatel"
+
+#: ../dialogs.py:287
+msgid " - already exists!"
+msgstr " - už existuje!"
+
+#: ../dialogs.py:289
+msgid "Name must be not EMPTY"
+msgstr "Jméno nesmí být PRÁZDNÉ"
+
+#: ../dialogs.py:306
+msgid "today"
+msgstr "dnes"
+
+#: ../dialogs.py:307
+msgid "begin of cycle"
+msgstr "začátek cyklu"
+
+#: ../dialogs.py:308
+msgid "prognosis of cycle begin"
+msgstr "prognóza začátku cyklu"
+
+#: ../dialogs.py:309
+msgid "conception"
+msgstr "početí"
+
+#: ../dialogs.py:310
+msgid "safe sex"
+msgstr "bezpečný sex"
+
+#: ../dialogs.py:311
+msgid "fertile"
+msgstr "plodnost"
+
+#: ../dialogs.py:312
+msgid "ovule, birth"
+msgstr "vajíčko, narození"
+
+#: ../dialogs.py:314
+msgid "tablets N 22-28 or pause"
+msgstr "tablety N 22-28 nebo přestávka"
+
+#: ../dialogs.py:360
+msgid "Remove"
+msgstr "Odstranit"
+

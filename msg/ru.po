@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: Fri Apr 19 10:56:14 2002\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-r\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Generated-By: pygettext.py 1.4\n"
+
+
+#: cal_year.py:416
+msgid " day of period from "
+msgstr "-й день периода с "
+
+#: cal_year.py:416
+msgid " to "
+msgstr " по "
+
+#: cal_year.py:417
+msgid " days"
+msgstr " дн."
+
+#: cal_year.py:417
+msgid " length "
+msgstr " продолжительностью "
+
+#: cycle.py:54
+msgid "Dec Year"
+msgstr "Год назад"
+
+#: cycle.py:57
+msgid "Current Year"
+msgstr "Текущий год"
+
+#: cycle.py:60
+msgid "Inc Year"
+msgstr "Год вперед"
+
+#: cycle.py:66 dialogs.py:15
+msgid "Settings"
+msgstr "Установки"
+
+#: cycle.py:69
+msgid "Help"
+msgstr "Помощь"
+
+#: cycle.py:72
+msgid "Exit"
+msgstr "Выход"
+
+#: dialogs.py:20
+msgid "Length of cycle"
+msgstr "Прогноз периода"
+
+#: dialogs.py:22
+msgid " by average"
+msgstr "по среднему"
+
+#: dialogs.py:34
+msgid " days in cycle"
+msgstr " дней в цикле"
+
+#: dialogs.py:38
+msgid "Display"
+msgstr "Показывать"
+
+#: dialogs.py:39
+msgid "both"
+msgstr "все"
+
+#: dialogs.py:39
+msgid "fertile days"
+msgstr "фертильные дни"
+
+#: dialogs.py:39
+msgid "safe sex days"
+msgstr "дни безопасного секса"
+
+#: dialogs.py:46
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: dialogs.py:54 dialogs.py:116 dialogs.py:196
+msgid "Ok"
+msgstr "Да"
+
+#: dialogs.py:58 dialogs.py:120 dialogs.py:200
+msgid "Cancel"
+msgstr "Отмена"
+
+#: dialogs.py:75
+msgid "Period of cycle is invalid!"
+msgstr "Некорректный период цикла!"
+
+#: dialogs.py:76 dialogs.py:138 dialogs.py:236 dialogs.py:281
+msgid "Error!"
+msgstr "Ошибка!"
+
+#: dialogs.py:96 dialogs.py:225
+msgid "Password"
+msgstr "Пароль"
+
+#: dialogs.py:101
+msgid "Enter your password"
+msgstr "Введите Ваш пароль"
+
+#: dialogs.py:107
+msgid "Once more..."
+msgstr "Еще раз..."
+
+#: dialogs.py:133
+msgid "Password must be not EMPTY!"
+msgstr "Пароль не может быть пустым"
+
+#: dialogs.py:135
+msgid "Entering password don't match!"
+msgstr "Гм, пароли не совпадают."
+
+#: dialogs.py:151
+msgid "Login"
+msgstr "Добро пожаловать"
+
+#: dialogs.py:161
+msgid "empty"
+msgstr "пусто"
+
+#: dialogs.py:176
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: dialogs.py:190
+msgid "Add user"
+msgstr "Добавить пользователя"
+
+#: dialogs.py:225
+msgid ", enter you password:"
+msgstr ", введите Ваш пароль:"
+
+#: dialogs.py:235
+msgid "Password is invalid!"
+msgstr "Неправильный пароль!"
+
+#: dialogs.py:260
+msgid "Enter you name:"
+msgstr "Наберите Ваше имя"
+
+#: dialogs.py:260
+msgid "New user"
+msgstr "Новый пользователь"
+
+#: dialogs.py:278
+msgid " - already exists!"
+msgstr " - уже есть!"
+
+#: dialogs.py:280
+msgid "Name must be not EMPTY"
+msgstr "Имя может быть пустым"
+
+
+#: cycle.py:72 dialogs.py:292
+msgid "Legend"
+msgstr "Легенда"
+
+
+#: dialogs.py:297
+msgid "today"
+msgstr "сегодня"
+
+#: dialogs.py:298
+msgid "begin of cycle"
+msgstr "начало цикла"
+
+#: dialogs.py:299
+msgid "prognosis of cycle begin"
+msgstr "прогнозируемое начало цикла"
+
+#: dialogs.py:300
+msgid "safe sex"
+msgstr "безопасный секс"
+
+#: dialogs.py:301
+msgid "fertile"
+msgstr "фертильные дни"
+
+#: dialogs.py:302
+msgid "ovule, birth"
+msgstr "овуляция, рождение"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Note"
+msgstr "Заметка"
+
+msgid "Begin of cycle"
+msgstr "Начало цикла"
+
+msgid "Conception"
+msgstr "Беременность"
+
+msgid "conception"
+msgstr "беременность"
+
+msgid " day of gestation, "
+msgstr " день беременности, "
+
+msgid " week"
+msgstr " нед."
+
+msgid " weeks"
+msgstr " нед."
+
+msgid " day"
+msgstr " дн."
+
+msgid "First week day"
+msgstr "Первый день недели"
+
+msgid "monday"
+msgstr "понедельник"
+
+msgid "sunday"
+msgstr "воскресенье"
+
+msgid "tablet N "
+msgstr "таблетка N "
+
+msgid " or pause"
+msgstr " или перерыв"
+
+msgid "next 1-st tablet"
+msgstr "следующая 1-ая таблетка"
+
+msgid "1-st tablet"
+msgstr "1-ая таблетка"
+
+msgid "tablets N 22-28 or pause"
+msgstr "таблетки N 22-28 или перерыв"
+
+msgid "Colours"
+msgstr "Цвета"
+
+msgid "Colours settings"
+msgstr "Настройка цветов"
+
+msgid "By default"
+msgstr "По умолчанию"
+
+#: dialogs.py:280
+msgid ""
+"This program is not a reliable contraceptive method. Neither does it help to prevent sexually transmitted diseases like HIV/AIDS.\n"
+"\n"
+"It is just an electronic means of keeping track of some of your medical data and extracting some statistical conclusions from them. You cannot consider this program as a substitute for your gynecologist in any way."
+msgstr ""
+"Эта программа не является надежным методом контрацепции. Она также не предохраняет от болезней, передающихся половым путем. Вы не можете считать эту программу заменой вашему гинекологу."

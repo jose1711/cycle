@@ -1,0 +1,311 @@
+# translation of messages.po to spanish
+# Copyright (C) 2005 Miriam Ruiz
+# Miriam Ruiz <little_miry@yahoo.es>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: es\n"
+"Report-Msgid-Bugs-To: Miriam Ruiz <little_miry@yahoo.es>\n"
+"POT-Creation-Date: 2005-04-08 14:37+0200\n"
+"PO-Revision-Date: 2005-04-13 23:04+0100\n"
+"Last-Translator: Miriam Ruiz <little_miry@yahoo.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
+
+#: cal_year.py:73
+msgid "Begin of cycle"
+msgstr "Comienzo del ciclo"
+
+#: cal_year.py:75
+#: dialogs.py:330
+#: dialogs.py:451
+msgid "1-st tablet"
+msgstr "1ª píldora"
+
+#: cal_year.py:78
+msgid "Conception"
+msgstr "Concepción"
+
+#: cal_year.py:80
+msgid "Note"
+msgstr "Nota"
+
+#: cal_year.py:509
+msgid "tablet N "
+msgstr "píldora N"
+
+#: cal_year.py:511
+msgid " or pause"
+msgstr " o pausa"
+
+#: cal_year.py:513
+#: dialogs.py:332
+#: dialogs.py:453
+msgid "next 1-st tablet"
+msgstr "siguiente 1ª píldora"
+
+#: cal_year.py:551
+msgid " day of gestation, "
+msgstr " día de gestación, "
+
+#: cal_year.py:552
+msgid " week"
+msgstr " semana"
+
+#: cal_year.py:553
+msgid " weeks"
+msgstr " semanas"
+
+#: cal_year.py:555
+msgid " day"
+msgstr " día"
+
+#: cal_year.py:556
+#: cal_year.py:563
+msgid " days"
+msgstr " días"
+
+#: cal_year.py:562
+msgid " day of period from "
+msgstr " día del periodo desde "
+
+#: cal_year.py:562
+msgid " to "
+msgstr " hasta "
+
+#: cal_year.py:563
+msgid " length "
+msgstr " longitud "
+
+#: cycle.py:91
+msgid "Dec Year"
+msgstr "Año anterior"
+
+#: cycle.py:94
+msgid "Current Year"
+msgstr "Año actual"
+
+#: cycle.py:97
+msgid "Inc Year"
+msgstr "Año siguiente"
+
+#: cycle.py:103
+#: dialogs.py:318
+msgid "Legend"
+msgstr "Leyenda"
+
+#: cycle.py:106
+#: dialogs.py:17
+msgid "Settings"
+msgstr "Configuración"
+
+#: cycle.py:109
+#: cycle.py:148
+msgid "Help"
+msgstr "Ayuda"
+
+#: cycle.py:117
+msgid "Exit"
+msgstr "Salir"
+
+#: dialogs.py:22
+msgid "Length of cycle"
+msgstr "Longitud del ciclo"
+
+#: dialogs.py:24
+msgid " by average"
+msgstr " de media"
+
+#: dialogs.py:36
+msgid " days in cycle"
+msgstr " días en el ciclo"
+
+#: dialogs.py:40
+msgid "Display"
+msgstr "Mostrar"
+
+#: dialogs.py:41
+msgid "safe sex days"
+msgstr "días de sexo más seguros"
+
+#: dialogs.py:41
+msgid "fertile days"
+msgstr "días fértiles"
+
+#: dialogs.py:41
+msgid "both"
+msgstr "ambos"
+
+#: dialogs.py:47
+msgid "First week day"
+msgstr "Primer día de la semana"
+
+#: dialogs.py:48
+msgid "monday"
+msgstr "lunes"
+
+#: dialogs.py:48
+msgid "sunday"
+msgstr "domingo"
+
+#: dialogs.py:55
+msgid "Colours"
+msgstr "Colores"
+
+#: dialogs.py:56
+msgid "Change password"
+msgstr "Cambiar la contraseña"
+
+#: dialogs.py:70
+#: dialogs.py:137
+#: dialogs.py:217
+#: dialogs.py:335
+#: dialogs.py:369
+#: dialogs.py:422
+#: dialogs.py:457
+msgid "Ok"
+msgstr "Aceptar"
+
+#: dialogs.py:74
+#: dialogs.py:141
+#: dialogs.py:221
+#: dialogs.py:373
+#: dialogs.py:465
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: dialogs.py:91
+msgid "Period of cycle is invalid!"
+msgstr "¡El periodo del ciclo no es válido!"
+
+#: dialogs.py:92
+#: dialogs.py:159
+#: dialogs.py:255
+#: dialogs.py:307
+msgid "Error!"
+msgstr "¡Error!"
+
+#: dialogs.py:117
+#: dialogs.py:244
+msgid "Password"
+msgstr "Contraseña"
+
+#: dialogs.py:122
+msgid "Enter your password"
+msgstr "Introducir contraseña"
+
+#: dialogs.py:128
+msgid "Once more..."
+msgstr "Una vez más..."
+
+#: dialogs.py:154
+msgid "Password must be not EMPTY!"
+msgstr "¡La contraseña no debe estar VACÍA!"
+
+#: dialogs.py:156
+msgid "Entering password don't match!"
+msgstr "¡Las contraseñas introducidas no coinciden!"
+
+#: dialogs.py:172
+msgid "Login"
+msgstr "Login"
+
+#: dialogs.py:182
+msgid "empty"
+msgstr "vacío"
+
+#: dialogs.py:197
+msgid "Your name"
+msgstr "Tu nombre"
+
+#: dialogs.py:211
+msgid "Add user"
+msgstr "Añadir usuaria"
+
+#: dialogs.py:244
+msgid ", enter you password:"
+msgstr ", introduce tu contraseña:"
+
+#: dialogs.py:254
+msgid "Password is invalid!"
+msgstr "¡La contraseña no es válida!"
+
+#: dialogs.py:280
+msgid ""
+"This program is not a reliable contraceptive method. Neither does it help to prevent sexually transmitted diseases like HIV/AIDS.\n"
+"\n"
+"It is just an electronic means of keeping track of some of your medical data and extracting some statistical conclusions from them. You cannot consider this program as a substitute for your gynecologist in any way."
+msgstr ""
+"Este programa no es un método anticonceptivo fiable. Tampoco puede ayudar a prevenir enfermedades de transmisión sexual como el SIDA.\n"
+"\n"
+"Es unicamente un asistente electrónico para llevar un seguimiento de algunos de tus datos médicos y extraer algunas conclusiones estadísticas a partir de ellos. En ningun caso se puede considerar este programa como un sustituto de tu ginecólogo."
+
+#: dialogs.py:286
+msgid "Enter you name:"
+msgstr "Introduce tu nombre:"
+
+#: dialogs.py:286
+msgid "New user"
+msgstr "Nueva usuaria"
+
+#: dialogs.py:304
+msgid " - already exists!"
+msgstr " - ¡ya existe!"
+
+#: dialogs.py:306
+msgid "Name must be not EMPTY"
+msgstr "El nombre no debe estar VACÍO"
+
+#: dialogs.py:323
+msgid "today"
+msgstr "hoy"
+
+#: dialogs.py:324
+#: dialogs.py:445
+msgid "begin of cycle"
+msgstr "comienzo del ciclo"
+
+#: dialogs.py:325
+#: dialogs.py:446
+msgid "prognosis of cycle begin"
+msgstr "prognosis del ciclo, comienzo"
+
+#: dialogs.py:326
+#: dialogs.py:447
+msgid "conception"
+msgstr "concepción"
+
+#: dialogs.py:327
+#: dialogs.py:448
+msgid "safe sex"
+msgstr "sexo más seguro"
+
+#: dialogs.py:328
+#: dialogs.py:449
+msgid "fertile"
+msgstr "fértil"
+
+#: dialogs.py:329
+#: dialogs.py:450
+msgid "ovule, birth"
+msgstr "óvulo, nacimiento"
+
+#: dialogs.py:331
+#: dialogs.py:452
+msgid "tablets N 22-28 or pause"
+msgstr "píldoras N 22-28 o pausa"
+
+#: dialogs.py:377
+msgid "Remove"
+msgstr "Eliminar"
+
+#: dialogs.py:435
+msgid "Colours settings"
+msgstr "Configuración de colores"
+
+#: dialogs.py:461
+msgid "By default"
+msgstr "Por defecto"
+

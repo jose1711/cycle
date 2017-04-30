@@ -1,0 +1,107 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;">
+    <title>
+	CYCLE - menstrual cycle tracker for women
+    </title>
+</head>
+<body BGCOLOR=white>
+<h2 align=center>
+    CYCLE<br>
+    menstrual cycle tracker for women
+</h2>
+<div align=center>
+<strong>15.09.2005 Version 0.3.1</strong><br>
+2002-2005 (c) Oleg Gints (altgo@users.sourceforge.net)<br>
+2002-2005 (c) "CONERO lab", http://conero.lrn.ru<br>
+</div>
+
+<h3 align=center>PROGRAM FEATURES</h3>
+<ul>
+    <li> Calculation of days of menstruation, based on length of cycle or
+        period statistics       
+    <li> Calculation of "safe" sex days, fertile period and days to ovulation
+    <li> Calculation of D.O.B. (Date Of Birth) of a child
+    <li> Allows you to write notes
+    <li> Helps you decide when to take the pill.
+</ul>
+
+<h3 align=center>HOW IT WORKS</h3>
+<p>
+It uses the <em>calendar (or rhythm) method</em> for the definition of fertile days.
+For this you need to determine the duration, of last six 
+cycles at least.
+   
+To determine the fertile days it uses this algorithm:
+<ul>
+    <li> First day: duration of shortest cycle minus 18
+    <li> Last day: duration of longest cycle minus 11
+    <li> Ovulation: is considered to be in the middle of fertile period (To determine the exact day isn't possible with the calendar method)
+</ul>   
+
+More information about the calendar method is available
+at: <A HREF="http://www.mama.ru/gynecolog/STA/st18.htm">
+    http://www.mama.ru/gynecolog/STA/st18.htm</A> (in Russian)
+
+<p>
+Date of birth of the child is counted from
+the beginning of last menstruation (in obstetrics 40 weeks is normally used). 
+This date is corrected with the duration of a cycle (the number of days that
+the cycle differs from 28 days is added or subtracted).
+It is possible to check the results at:
+<A HREF="http://cir.msk.ru/sroki.shtml">http://cir.msk.ru/sroki.shtml</A> (in Russian)
+
+<H3 align=center>HOW TO USE THE PROGRAM</H3>
+
+<p>
+Mark the beginning of menstruation.
+This is done by clicking with the right button on the date and chosing 
+"beginning of cycle". Similarly the mark can be removed.
+Using duration of the last six cycles, the program will calculate and display the:
+<ul>
+    <li> Fertile period - green cells
+    <li> Ovulation day (the middle of the fertile period) - brightly green cell
+    <li> Beginning of following menstruation - pink cells
+</ul>
+<p>
+Cycle duration is set in options or is calculated as an average of last six periods.
+
+
+<p>To determine the likely date of birth of the child, it is necessary
+to mark the first day of the last cycle as "Pregnancy".
+
+<p> 
+Depending on your preferences, you can display only "Safe" sex days
+or only fertile days.
+Information about a day can be seen at the bottom, by left clicking on the day.
+
+<p>
+It is possible to add a note to any date using a right click.
+Days with a note are underlined.
+
+<p>
+There is a 10 percent failure rate of the calendar contraception method
+This method is suitable only for women with a regular enough cycle.
+
+<p>
+If your doctor has recommended oral contraceptive pills
+this program can help you take them at the right date. Familiarize yourself
+thorougly with the instructions that come with the strip of tablets.
+The strip can contain 21 tablets (a tablet a day for 21 days,
+then 7 days pause) or 28 tablets (in this case a table a day without
+interuption, over 28 days).
+In the program, only the day when you first start on a strip is noted.
+
+
+<H3 align=center>CONDITIONS OF DISTRIBUTION</H3>
+<p>
+Program "Cycle" is distributed under <strong>GNU General Public License</strong>,
+in the hope that it will be useful, but <strong>WITHOUT ANY WARRANTY</strong> (see file COPYRIGHT).
+
+<p align=right>
+<font size=-1>
+    Translation - Marco Papa Manzillo (mpapamanz@users.sourceforge.net)
+</font>
+</body>
+</html>
+
